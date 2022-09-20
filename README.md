@@ -1,4 +1,4 @@
-# Lonati-socks-machine-Chinese-package
+# LONATI袜机 汉化包
 
 LONATI袜机 汉化包
 
