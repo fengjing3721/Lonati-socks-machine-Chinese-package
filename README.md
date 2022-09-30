@@ -11,3 +11,6 @@ Lonati socks machine Chinese package
 使用方法解压后 将.msg结尾的文件覆盖到C:\Graph6 相同机型，相同版本文件夹内替换原有.msg文件
 
 也可作为相同机型不同版本汉化的参考
+
+如果乱码 请把文件用记事本打开，另存为，编码：NASI 格式
+
